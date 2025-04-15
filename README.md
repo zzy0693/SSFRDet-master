@@ -17,7 +17,7 @@ Paddle=2.4.2;
 
 | Backbone | Model | Images/GPU | Inf time (fps) | Box AP |   Config    | Download |
 |:------:|:--------:|:----------:|:--------------:|:------:|:-----------:|:--------:|
-| R-50 | SSFRDet  |     1      |     14.09      |  44.1  | config file | [model](https://drive.google.com/file/d/1ZWp9BNRXFazBjsXgTxEdwyo61pWii3xQ/view?usp=drive_link) |
+| R-50 | SSFRDet  |     1      |     14.09      |  44.1  | [config](https://github.com/zzy0693/SSFRDet-master/blob/master/configs/SSFRDet/SSFR_r50_fpn_1x_coco.yml) | [model](https://drive.google.com/file/d/1ZWp9BNRXFazBjsXgTxEdwyo61pWii3xQ/view?usp=drive_link) |
 
 ## Run command
 
